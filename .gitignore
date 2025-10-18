@@ -1,0 +1,7 @@
+backend/.venv/
+backend/.env
+database/dev.db
+dev.db
+node_modules/
+.next/
+out/
